@@ -51,7 +51,7 @@ project/
 ## 🚀 How to Run the Project
 
 ### 🔹 1. Clone Repository
-git clone https://github.com/your-username/product-placement-analysis.git
+git clone https://github.com/raishivam-24/product-placement-analysis.git
 cd product-placement-analysis
 
 ### 🔹 2. Install Dependencies
